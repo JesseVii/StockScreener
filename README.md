@@ -15,14 +15,14 @@ The stats component and earnings in chart component will only work if you add yo
 <b>Settings: </b>The programs settings <br>
 
 <p float="center">
-  <img src="https://user-images.githubusercontent.com/96830417/219729691-a33ad4f7-e2e6-4469-8e58-8023d2085cf2.png" width="452"/>
-  <img src="https://user-images.githubusercontent.com/96830417/219729701-1e22270b-2915-432f-bda2-970cb5bbf8dc.png" width="452"/> 
+  <img src="https://user-images.githubusercontent.com/96830417/219729691-a33ad4f7-e2e6-4469-8e58-8023d2085cf2.png" width="375"/>
+  <img src="https://user-images.githubusercontent.com/96830417/219729701-1e22270b-2915-432f-bda2-970cb5bbf8dc.png" width="375"/> 
 </p>
 
 <p float="center">
-  <img src="https://user-images.githubusercontent.com/96830417/219729676-ca26c48a-cbaa-48e0-9ed2-7c235eb8aec3.png" width="300"/>
-  <img src="https://user-images.githubusercontent.com/96830417/219729685-2e74c784-a861-4c28-8067-1842a45a5724.png" width="300"/> 
-  <img src="https://user-images.githubusercontent.com/96830417/219729688-2e6ee8c8-84eb-4760-af19-733b2c8011e2.png" width="300"/>
+  <img src="https://user-images.githubusercontent.com/96830417/219729676-ca26c48a-cbaa-48e0-9ed2-7c235eb8aec3.png" width="250"/>
+  <img src="https://user-images.githubusercontent.com/96830417/219729685-2e74c784-a861-4c28-8067-1842a45a5724.png" width="250"/> 
+  <img src="https://user-images.githubusercontent.com/96830417/219729688-2e6ee8c8-84eb-4760-af19-733b2c8011e2.png" width="250"/>
 </p>
 
 # Hidden features
