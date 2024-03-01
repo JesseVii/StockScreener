@@ -1,5 +1,5 @@
 # How to download and use
-Download the latest release of StockScreener from https://github.com/JesseVii/TTS/releases <br>
+Download the latest release of StockScreener from https://github.com/JesseVii/StockScreener/releases <br>
 Requires Java 11 or above to be installed, then just start the executable jar file. <br>
 The stats component and earnings in chart component will only work if you add your own Finnhub and AlphaVantage API keys to the Settings. <br>
 
